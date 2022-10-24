@@ -55,6 +55,15 @@ If you would like to *implement* a new feature, please consider the size of the 
 
 ## <a name="submit"></a> Submission Guidelines
 
+### <a name="get-started"></a> Not Sure Where to Start?
+
+[Current issues](https://github.com/angular/angular/issues) are categorized outstanding tasks by "area" and optionally other labels. Newcomers are welcome to filter issues by <kbd>[help wanted](https://github.com/angular/angular/labels/help%20wanted)</kbd> or <kbd>[good first issue](https://github.com/angular/angular/labels/good%20first%20issue)</kbd> labels.
+
+### <a name="structure"></a> Repository Structure
+
+The repository contains all official Angular source code. The structure is broken down into 10 main top-level directories. The following diagram describes each top-level directory's effective scope.
+
+<img src="docs/images/Structure Overview.png" alt="Structure Overview" />
 
 ### <a name="submit-issue"></a> Submitting an Issue
 
